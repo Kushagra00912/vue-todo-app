@@ -1,0 +1,301 @@
+{
+  "users": [
+    {
+      "id": "8b42",
+      "Username": "Kushagra",
+      "Email": "kushagra210900@gmail.com",
+      "Phone": "7898456123",
+      "Password": "123456",
+      "todolist": {
+        "__v_isShallow": false,
+        "__v_isRef": true,
+        "_rawValue": [
+          {
+            "Task": "dsjklbsdf",
+            "Taskdescription": "kjbdjhbd",
+            "Status": "Inprogress"
+          }
+        ],
+        "_value": [
+          {
+            "Task": "dsjklbsdf",
+            "Taskdescription": "kjbdjhbd",
+            "Status": "Inprogress"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e6ab",
+      "Username": "vikas",
+      "Email": "abcd@abcd.com",
+      "Phone": "7898456123",
+      "Password": "123456",
+      "todolist": [
+        {
+          "Task": "ugasvghas",
+          "Taskdescription": "dfjbsdhsdbhsdkjbadjdbhds",
+          "Status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "6842",
+      "Username": "harshit",
+      "Email": "harshit@abcd.com",
+      "Phone": "7898456123",
+      "Password": "123456",
+      "todolist": {
+        "__v_isShallow": false,
+        "__v_isRef": true,
+        "_rawValue": [
+          {
+            "Task": "fgd",
+            "Taskdescription": "gdgh",
+            "Status": "pending"
+          },
+          {
+            "Task": "hasdgbusav",
+            "Taskdescription": "jhsdbjkdb",
+            "Status": "pending"
+          },
+          {
+            "Task": "sdosdhuysdh",
+            "Taskdescription": "dssddd",
+            "Status": "pending"
+          },
+          {
+            "Task": "ssdsdsdd",
+            "Taskdescription": "sdsddsd",
+            "Status": "pending"
+          },
+          {
+            "Task": "wade",
+            "Taskdescription": "erteer",
+            "Status": "pending"
+          }
+        ],
+        "_value": [
+          {
+            "Task": "fgd",
+            "Taskdescription": "gdgh",
+            "Status": "pending"
+          },
+          {
+            "Task": "hasdgbusav",
+            "Taskdescription": "jhsdbjkdb",
+            "Status": "pending"
+          },
+          {
+            "Task": "sdosdhuysdh",
+            "Taskdescription": "dssddd",
+            "Status": "pending"
+          },
+          {
+            "Task": "ssdsdsdd",
+            "Taskdescription": "sdsddsd",
+            "Status": "pending"
+          },
+          {
+            "Task": "wade",
+            "Taskdescription": "erteer",
+            "Status": "pending"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b08",
+      "Username": "shreya",
+      "Email": "shreya@abc.com",
+      "Phone": "789456123",
+      "Password": "12",
+      "todolist": []
+    },
+    {
+      "id": "34b3",
+      "Username": "assasaas",
+      "Email": "asasasas@saas.com",
+      "Phone": "8784514365",
+      "Password": "shbas@122",
+      "todolist": []
+    },
+    {
+      "id": "70e2",
+      "Username": "sdsd",
+      "Email": "sddssd@dfs.cmbn",
+      "Phone": "54232345423",
+      "Password": "2344",
+      "todolist": []
+    },
+    {
+      "id": "beb6",
+      "Username": "asas",
+      "Email": "kushagra210900@gmail.com",
+      "Phone": "234343",
+      "Password": "123231",
+      "todolist": []
+    },
+    {
+      "id": "7532",
+      "Username": "asdasdfads",
+      "Email": "kushagra210900@gmail.com",
+      "Phone": "233223",
+      "Password": "123456",
+      "todolist": []
+    },
+    {
+      "id": "df4b",
+      "Username": "sdfhgadfjsdj",
+      "Email": "shreya@abcd.com",
+      "Phone": "45166113",
+      "Password": "sdyavkdjdk",
+      "todolist": []
+    },
+    {
+      "id": "0463",
+      "Username": "sfaghsa",
+      "Email": "ahsgjasv@bsdjh.com",
+      "Phone": "5449851223",
+      "Password": "123456",
+      "todolist": []
+    },
+    {
+      "id": "f735",
+      "Username": "sahashbj",
+      "Email": "dddd@sdsd23.com",
+      "Phone": "2356236112",
+      "Password": "dsjbnhsd2223",
+      "todolist": []
+    },
+    {
+      "id": "9592",
+      "Username": "wqqweqw",
+      "Email": "kushagra210900@gmail.coma",
+      "Phone": "1235456573",
+      "Password": "sds!12132",
+      "todolist": []
+    },
+    {
+      "id": "df91",
+      "Username": "test",
+      "Email": "test@test.com",
+      "Phone": "4444444444",
+      "Password": "test@12",
+      "todolist": []
+    },
+    {
+      "id": "5d29",
+      "Username": "jasghdhg",
+      "Email": "yash@gmail.com",
+      "Phone": "6876543547",
+      "Password": "Yash@321",
+      "todolist": []
+    },
+    {
+      "id": "d822",
+      "Username": "hhhhh",
+      "Email": "abcd@ab.com",
+      "Phone": "1234567898",
+      "Password": "abcd@12",
+      "todolist": []
+    },
+    {
+      "id": "0f5a",
+      "Username": "abcd",
+      "Email": "abc@abcd.com",
+      "Phone": "1234567898",
+      "Password": "abcd@12",
+      "todolist": [
+        {
+          "Task": "svhasdvbskb",
+          "Taskdescription": "sjknkabkbsd",
+          "Status": "Inprogress"
+        }
+      ]
+    },
+    {
+      "id": "0d9d",
+      "Username": "saasasd",
+      "Email": "asbash@kjsdbn.com",
+      "Phone": "3782238326",
+      "Password": "abcd@21",
+      "todolist": []
+    },
+    {
+      "id": "1677",
+      "Username": "jdgsuy",
+      "Email": "sdb@jhsdb.com",
+      "Phone": "2323333332",
+      "Password": "idfjsdf@233",
+      "todolist": [
+        {
+          "Task": "sadsdsd",
+          "Taskdescription": "sddd",
+          "Status": "completed"
+        },
+        {
+          "Task": "dfsdsd",
+          "Taskdescription": "sdfes",
+          "Status": "pending"
+        },
+        {
+          "Task": "sdfsdfdd",
+          "Taskdescription": "dfsdffsd",
+          "Status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "9b50",
+      "Username": "abcba",
+      "Email": "abc@abc.abc",
+      "Phone": "1326558989",
+      "Password": "123456",
+      "todolist": []
+    },
+    {
+      "id": "f05f",
+      "Username": "kushagra",
+      "Email": "ks@singh.com",
+      "Phone": "1223456677",
+      "Password": "ks@210900",
+      "todolist": [
+        {
+          "Task": "jsdbsduh",
+          "Taskdescription": "bsdsdhbsd",
+          "Status": "completed"
+        },
+        {
+          "Task": "jhsdgujhsduig",
+          "Taskdescription": "iudguisdg",
+          "Status": "completed"
+        },
+        {
+          "Task": "jgsdffsds",
+          "Taskdescription": "jhgdfjhsd",
+          "Status": "completed"
+        },
+        {
+          "Task": "36565",
+          "Taskdescription": "6565",
+          "Status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "9a7e",
+      "Username": "Hargi",
+      "Email": "h@gmail.com",
+      "Phone": "6454444444",
+      "Password": "Abc@223133",
+      "todolist": [
+        {
+          "Task": "Task 11",
+          "Taskdescription": "Task 11",
+          "Status": "Inprogress"
+        }
+      ]
+    }
+  ]
+}
