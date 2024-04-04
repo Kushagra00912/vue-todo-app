@@ -1,5 +1,5 @@
 <template>
-	<button>new button for feature 2 only</button>
+
 	<h1>this is new committ</h1>
 	<div>
 		<button style="width: 100px;" @click="clear">Logout</button>
