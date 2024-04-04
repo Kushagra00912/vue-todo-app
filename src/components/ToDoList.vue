@@ -1,6 +1,6 @@
 <template>
 	<h1>this is new committ</h1>
-	<h2>this is new committ</h2>
+	
 	<div>
 		<button style="width: 100px;" @click="clear">Logout</button>
 	</div>
