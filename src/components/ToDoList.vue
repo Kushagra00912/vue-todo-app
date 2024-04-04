@@ -1,6 +1,6 @@
 <template>
 	<h1>this is new committ</h1>
-	
+	<button>new button for testing merging</button>
 	<div>
 		<button style="width: 100px;" @click="clear">Logout</button>
 	</div>
